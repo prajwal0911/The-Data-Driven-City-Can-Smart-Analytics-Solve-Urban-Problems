@@ -1,5 +1,3 @@
-![The Data-Driven City Banner](banner.png)
-
 # 🌆 The Data-Driven City: Can Smart Analytics Solve Urban Problems?
 
 **Published Article | Exploring How Data and AI Can Transform Urban Living**
